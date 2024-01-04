@@ -12,7 +12,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "MO",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -698,7 +699,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "MT|Mont.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -1352,7 +1354,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NE|Nebr.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -1781,7 +1784,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NV|Nev.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -2620,7 +2624,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NJ|N.J.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4487,7 +4492,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NM|N.M.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -4712,7 +4718,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NY|N.Y.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6769,7 +6776,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "NC|N.C.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10817,7 +10825,7 @@
         "VARNAME_1": "ND|N.D.",
         "TYPE_1": "State",
         "ENGTYPE_1": "State",
-        "Zone": ""
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12038,7 +12046,7 @@
         "VARNAME_1": "OK|Okla.",
         "TYPE_1": "State",
         "ENGTYPE_1": "State",
-        "Zone": ""
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12727,7 +12735,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "OR|Ore.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14649,7 +14658,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "SC|S.C.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17996,7 +18006,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "SD|S.D.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -18967,7 +18978,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "TX|Tex.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23914,7 +23926,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "UT",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -24103,7 +24116,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "VT",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -24416,7 +24430,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "VA",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26711,7 +26726,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "WA|Wash.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29748,7 +29764,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "WI|Wis.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -30341,7 +30358,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "WY|Wyo.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -30538,7 +30556,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "AL|Ala.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31129,7 +31148,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "AK|Alaska",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60345,7 +60365,7 @@
         "VARNAME_1": "AZ|Ariz.",
         "TYPE_1": "State",
         "ENGTYPE_1": "State",
-        "Zone": ""
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -61468,7 +61488,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "CA|Calif.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63091,7 +63112,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "CO|Colo.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -63616,7 +63638,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "DE|Del.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -63793,7 +63816,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "DC|D.C.",
         "TYPE_1": "Federal District",
-        "ENGTYPE_1": "Federal District"
+        "ENGTYPE_1": "Federal District",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -63854,7 +63878,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "FL|Fla.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72477,7 +72502,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "GA|Ga.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75304,7 +75330,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "HI|Hawaii",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76095,7 +76122,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "ID|Idaho",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -76884,7 +76912,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "IL|Ill.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -77633,7 +77662,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "IN|Ind.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -78094,7 +78124,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "IA|Iowa",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -78619,7 +78650,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "KS|Kans.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -78881,7 +78913,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "Commonwealth of Kentucky|KY",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86293,7 +86326,7 @@
         "VARNAME_1": "ME|Maine",
         "TYPE_1": "State",
         "ENGTYPE_1": "State",
-        "Zone": ""
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91200,7 +91233,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "MD",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94053,7 +94087,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "MI|Mich.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94816,7 +94851,8 @@
         "NL_NAME_1": null,
         "VARNAME_1": "MN|Minn.",
         "TYPE_1": "State",
-        "ENGTYPE_1": "State"
+        "ENGTYPE_1": "State",
+        "Zone": 2
       },
       "geometry": {
         "type": "Polygon",
